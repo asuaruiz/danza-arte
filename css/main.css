@@ -288,4 +288,64 @@ hr {
 	font-size: 3em;
 	font-style: italic;
 }
+/*BLOG*/
 
+.fondo11 {
+	height: 850px;
+	background-color: rgb(244, 244, 244);
+	padding: 4em;
+	text-align: center;
+}
+.titsize {
+	font-size: 1.5em;
+}
+.fondo12 {
+	height: 220px;
+	background-color: gray;
+	margin-top: 3em;
+	text-align: left;
+}
+.fondoblog {
+	width: 70%;
+	margin-left: 1em;
+	margin-top: 2em;
+}
+.fecha {
+	color: rgb(244, 244, 244);
+}
+.titart {
+	font-weight: bold;
+}
+.fotoblog {
+	background-image: url(../img/blog1.jpg);
+	background-position: center top;
+	height: 220px;
+	width: 230px;
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+.fotoblog2 {
+	background-image: url(../img/profesor_5.jpg);
+	background-position: center top;
+	height: 220px;
+	width: 230px;
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+.fotoblog3 {
+	background-image: url(../img/instructor_1.jpg);
+	background-position: center top;
+	height: 220px;
+	width: 230px;
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+.ver_mas {
+	display: block;
+	padding: 1em 5em;
+	background-color: #192951;
+	color: white;
+	border-radius: 2px;
+	margin-top: 0.5em;
+	font-size: 1em;
+}
