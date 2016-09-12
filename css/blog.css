@@ -28,7 +28,7 @@
 .fotoblog {
 	background-image: url(../img/blog1.jpg);
 	background-position: center top;
-	height: 220px;
+	height: 100%;
 	width: 230px;
 	background-size: 110%;
 	background-repeat: no-repeat;
