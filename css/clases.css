@@ -1,1 +1,75 @@
-/* Inserta tu codigo aqui */
+/*CLASES*/
+.fondo11 {
+	height: 1000px;
+	background-color: rgb(244, 244, 244);
+	padding: 4em;
+	text-align: center;
+}
+.fondo12 {
+	background-image: url(../img/dance_12.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	margin-left: 2em;
+	background-size: 110%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fondo13 {
+	background-image: url(../img/breakdance.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fondo14 {
+	background-image: url(../img/lirical-jazz.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fondo15 {
+	background-image: url(../img/arabe.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	margin-left: 2em;
+	background-size: 110%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fondo16 {
+	background-image: url(../img/little.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fondo17 {
+	background-image: url(../img/yoga.jpg);
+	height: 450px;
+	width: 350px;
+	margin: 0.5em;
+	background-size: 110%;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+.transparentbox {
+	color: white;
+	text-align: center;
+	background-color: black;
+	opacity: 0.5;
+	margin-top: 50%;
+	height: 30%;
+	width: 80%;
+	margin-left: 10%;
+	padding-top: 10%;
+}
